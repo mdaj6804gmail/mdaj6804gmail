@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="Background.png"  />
+  <img height="600" src="Background.png"  />
 </div>
 
 ###
